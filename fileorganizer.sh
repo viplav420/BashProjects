@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory to organize
-DIR=/home/viplav/Learn
+DIR=$DirectoryPath
 
 # Check if a directory was provided
 if [ -z "$DIR" ]; then
